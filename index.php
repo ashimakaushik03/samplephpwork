@@ -5,7 +5,7 @@
 <h1>Building First PHP application<h1>
 
 <?php
-echo "Version: Final Build";
+echo "Version: Requires Manual Approval before Finalizing the Code";
 ?>
 
 </body>
